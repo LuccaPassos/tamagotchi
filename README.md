@@ -26,6 +26,7 @@ The tamagotchicro:bit can get sick if it's held face side down. It must be heale
 ### Sleep
 The tamagotchicro:bit starts to sleep if it's not moving. To wake it up, just move it around.
 
+
 ## Stages
 The tamagotchicro:bit has 4 stages of emotions (except sick), directly based on its health. They are expressed by different animations shown on the 5 led matrix.
 As it gets sadder, it gets harder to make it happy again.
@@ -40,4 +41,4 @@ The first stage happens when the health between 70 and 40. It randomly looks aro
 The first stage happens when the health between 40 and 10. At this stage it's crying a lot and it is very difficult to interact with it. Its time is near.
 
 ### Stage 4
-If the health drops below 10, the tamagotchicro:bit dies, and its age is shown.
+If the health drops below 10, the tamagotchicro:bit dies, and its age is shown in milliseconds.
