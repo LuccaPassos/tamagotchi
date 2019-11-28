@@ -7,7 +7,7 @@ The code is not commented and the variable's names are not intuitive because of 
 All interactions must happen while the pet is looking at the player, otherwise they'll not work.
 
 ### Beginning
-The tamagotchicro:bit starts with 100 health (or happiness) and it has a 10% chance of droping by 10 every 10 seconds. At this stage, it's happy and very interested, looking often at the player. Its face changes by pressing Button A or button B as if the player was pinching its cheeks (but it has no real effects).
+The tamagotchicro:bit starts with 100 health (or happiness) and it has a 10% chance of dropping by 10 every 10 seconds. At this stage, it's happy and very interested, looking often at the player. Its face changes by pressing Button A or button B as if the player was pinching its cheeks (but it has no real effects).
 
 ### Menu
 There's a menu and it can be accessed by pressing buttons A and B simultaneously. Then button A moves it to the left and B moves it to the right. There are two options, one is a pacman and the other is a cross and they can be selected by pressing A and B simultaneously again.
