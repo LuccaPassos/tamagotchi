@@ -35,10 +35,10 @@ As it gets sadder, it gets harder to make it happy again.
 The first stage happens when the health is higher or equal to 70. It randomly looks around, but it looks more at the player as it's more interested.
 
 ### Stage 2
-The first stage happens when the health between 70 and 40. It randomly looks around but spends more time at it, not very interested in the player.
+This stage happens when the health between 70 and 40. It randomly looks around but spends more time at it, not very interested in the player.
 
 ### Stage 3
-The first stage happens when the health between 40 and 10. At this stage it's crying a lot and it is very difficult to interact with it. Its time is near.
+This stage happens when the health between 40 and 10. At this stage it's crying a lot and it is very difficult to interact with it. Its time is near.
 
 ### Stage 4
 If the health drops below 10, the tamagotchicro:bit dies, and its age is shown in milliseconds.
